@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="588d853e-f4b2-4311-a33f-a38d7a4f1fb7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1127271117">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="11" />
+          <entry key="ipynb" value="1" />
+          <entry key="json" value="1" />
+          <entry key="md" value="3" />
+          <entry key="png" value="3" />
+          <entry key="py" value="174" />
+          <entry key="sh" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="3" />
+          <entry key="CSV" value="11" />
+          <entry key="IPNB" value="1" />
+          <entry key="Image" value="3" />
+          <entry key="JSON" value="1" />
+          <entry key="Markdown" value="3" />
+          <entry key="Python" value="174" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="csv" value="2" />
+          <entry key="dummy" value="81" />
+          <entry key="md" value="48" />
+          <entry key="py" value="15656" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="2" />
+          <entry key="Markdown" value="48" />
+          <entry key="PLAIN_TEXT" value="81" />
+          <entry key="Python" value="15656" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/DeepFM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1525">
+              <caret line="66" column="47" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/DataReader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2250">
+              <caret line="90" column="40" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/raw+/src/data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc2vec/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="211" column="36" selection-start-line="211" selection-start-column="36" selection-end-line="211" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/raw+/src/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="8" selection-start-line="2" selection-end-line="2" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/raw+/src/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc2vec/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>freqs</find>
+      <find>zip</find>
+      <find>lab</find>
+      <find>impression2id</find>
+      <find>digit_ref</find>
+      <find>feature_size</find>
+      <find>train</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>df</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tradition/extractor.py" />
+        <option value="$PROJECT_DIR$/doc2vec/model.py" />
+        <option value="$PROJECT_DIR$/tradition/extractor_test.py" />
+        <option value="$PROJECT_DIR$/../../2019-master/src/baseline_algorithm/functions.py" />
+        <option value="$PROJECT_DIR$/data_process/train.py" />
+        <option value="$PROJECT_DIR$/data_process/utols.py" />
+        <option value="$PROJECT_DIR$/data_process/test.csv" />
+        <option value="$PROJECT_DIR$/data_process/readme.md" />
+        <option value="$PROJECT_DIR$/data_process/test_data.csv" />
+        <option value="$PROJECT_DIR$/data_process/test.py" />
+        <option value="$PROJECT_DIR$/data_process/utils_train.py" />
+        <option value="$PROJECT_DIR$/data_process/utils.py" />
+        <option value="$PROJECT_DIR$/data_process/__init__.py" />
+        <option value="$PROJECT_DIR$/data_process/stat.py" />
+        <option value="$PROJECT_DIR$/data_final_process/__init__.py" />
+        <option value="$PROJECT_DIR$/data_final_process/agg_data.py" />
+        <option value="$PROJECT_DIR$/data_final_process/model.py" />
+        <option value="$PROJECT_DIR$/data_final_process/model_lgb.py" />
+        <option value="$PROJECT_DIR$/deep.py" />
+        <option value="$PROJECT_DIR$/deep/deep.py" />
+        <option value="$PROJECT_DIR$/deep/deepNN.py" />
+        <option value="$PROJECT_DIR$/doc2vec_spark/xgboost.py" />
+        <option value="$PROJECT_DIR$/wide_deep/model.py" />
+        <option value="$PROJECT_DIR$/wide_deep/data.py" />
+        <option value="$PROJECT_DIR$/fastetx/models.py" />
+        <option value="$PROJECT_DIR$/fastetx/keras_embedding.py" />
+        <option value="$PROJECT_DIR$/fastetx/test.py" />
+        <option value="$PROJECT_DIR$/fastetx/tf_test.py" />
+        <option value="$PROJECT_DIR$/fastetx/tensor_word2vec.py" />
+        <option value="$PROJECT_DIR$/fastetx/dssm.py" />
+        <option value="$PROJECT_DIR$/fastetx/dssm_model.py" />
+        <option value="$PROJECT_DIR$/doc2vec_spark/doc2vec_test.py" />
+        <option value="$PROJECT_DIR$/fastetx/loc-impress.py" />
+        <option value="$PROJECT_DIR$/fastetx/loc_impress.py" />
+        <option value="$PROJECT_DIR$/fastetx/weight_dssm_data.py" />
+        <option value="$PROJECT_DIR$/fastetx/item_info.py" />
+        <option value="$USER_HOME$/Downloads/GraphSAGE-master/example_supervised.sh" />
+        <option value="$USER_HOME$/Downloads/GraphSAGE-master/graphsage/dd.ipynb" />
+        <option value="$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/recommendation-FM-demo/FM_model.py" />
+        <option value="$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/DataReader.py" />
+        <option value="$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/DeepFM.py" />
+        <option value="$PROJECT_DIR$/wide_deep/ee.py" />
+        <option value="$PROJECT_DIR$/fastetx/item_info_data.py" />
+        <option value="$PROJECT_DIR$/raw+/utils.py" />
+        <option value="$PROJECT_DIR$/raw+/src.py" />
+        <option value="$PROJECT_DIR$/raw+/src/config.py" />
+        <option value="$PROJECT_DIR$/raw+/src/data.py" />
+        <option value="$PROJECT_DIR$/fastetx/weight_dssm.py" />
+        <option value="$PROJECT_DIR$/fastetx/dd.py" />
+        <option value="$PROJECT_DIR$/raw+/src/utils.py" />
+        <option value="$PROJECT_DIR$/doc2vec/models/abs.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Resrec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Resrec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Resrec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Resrec" type="462c0819:PsiDirectoryNode" />
+              <item name="raw+" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Resrec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Resrec" type="462c0819:PsiDirectoryNode" />
+              <item name="raw+" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.data">
+    <configuration name="FM_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow1.2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/recommendation-FM-demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/recommendation-FM-demo/FM_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Resrec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/raw+/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/raw+/src/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Resrec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fastetx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fastetx/tensor_word2vec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ee" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Resrec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wide_deep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wide_deep/ee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process" type="PythonConfigurationType" factoryName="Python">
+      <module name="Resrec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tradition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tradition/process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tf_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Resrec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fastetx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fastetx/tf_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.process" />
+      <item itemvalue="Python.tf_test" />
+      <item itemvalue="Python.dd" />
+      <item itemvalue="Python.FM_model" />
+      <item itemvalue="Python.ee" />
+      <item itemvalue="Python.data" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.data" />
+        <item itemvalue="Python.ee" />
+        <item itemvalue="Python.FM_model" />
+        <item itemvalue="Python.dd" />
+        <item itemvalue="Python.tf_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="588d853e-f4b2-4311-a33f-a38d7a4f1fb7" name="Default Changelist" comment="" />
+      <created>1559449601103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559449601103</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-273" y="-1011" width="1440" height="810" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.205074" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Project Explorer" order="2" weight="0.16008425" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="DB Browser" order="4" weight="0.32964718" />
+      <window_info id="Job Explorer" order="5" weight="0.32964718" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24059406" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32970297" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-NFM-Demo/NFM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DCN-Demo/DCN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-935" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/recommendation-FFM-Demo/FFM_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/recommendation-FM-demo/FM_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="113" column="11" lean-forward="true" selection-start-line="113" selection-start-column="11" selection-end-line="113" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-Evaluation-metrics/AUC.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-Evaluation-metrics/HR.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-Evaluation-metrics/MAP.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-Evaluation-metrics/MRR.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/output/DeepFM_Mean0.01434_Std0.10176.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1933" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DCN-Demo/DataLoader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="73" column="37" lean-forward="true" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-NFM-Demo/DataReader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1880" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-FTRL-Demo/basic-ftrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1166" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-MLR-Demo/data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-MLR-Demo/mlr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-MKR-Demo/layers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-MKR-Demo/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-MKR-Demo/model.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DIN-Demo/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DIN-Demo/input.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DIN-Demo/utils/0_download_raw.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DIN-Demo/utils/1_convert_pd.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DIN-Demo/utils/2_remap_id.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DIN-Demo/build_dataset.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DIN-Demo/convert_pd.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DIN-Demo/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-BPR-Demo/BPR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda2/envs/py37/lib/python3.7/site-packages/mleap/pyspark/spark_support.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="41" column="40" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda2/envs/py37/lib/python3.7/site-packages/pyspark/ml/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4700">
+          <caret line="190" column="34" selection-start-line="190" selection-start-column="34" selection-end-line="190" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda2/envs/py37/lib/python3.7/site-packages/mleap/pyspark/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wide_deep/ee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition/extractor_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1862" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning2rank/rank/ListNet.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tradition/extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1687" />
+      </provider>
+    </entry>
+    <entry file="file:///anaconda2/envs/py37/lib/python3.7/site-packages/keras/layers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastetx/weight_dssm_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1675">
+          <caret line="83" column="10" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastetx/item_info_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1337">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw+/utils.py" />
+    <entry file="file://$PROJECT_DIR$/raw+/src.py" />
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/data/test.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastetx/weight_dssm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3725">
+          <caret line="165" column="16" selection-start-line="165" selection-start-column="16" selection-end-line="165" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastetx/dd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3725">
+          <caret line="162" column="62" selection-start-line="162" selection-start-column="62" selection-end-line="162" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc2vec/models/abs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/DeepFM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="66" column="47" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/DataReader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="90" column="40" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../learn_code/tensorflow_practice-master/recommendation/Basic-DeepFM-model/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw+/src/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw+/src/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="8" selection-start-line="2" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw+/src/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc2vec/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc2vec/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="211" column="36" selection-start-line="211" selection-start-column="36" selection-end-line="211" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

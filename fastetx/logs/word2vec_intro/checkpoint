@@ -1,0 +1,6 @@
+model_checkpoint_path: "wv_nodel.ckpt-900"
+all_model_checkpoint_paths: "wv_nodel.ckpt-500"
+all_model_checkpoint_paths: "wv_nodel.ckpt-600"
+all_model_checkpoint_paths: "wv_nodel.ckpt-700"
+all_model_checkpoint_paths: "wv_nodel.ckpt-800"
+all_model_checkpoint_paths: "wv_nodel.ckpt-900"
